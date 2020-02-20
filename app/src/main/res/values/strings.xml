@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+
+    <string name="email">Enter your email address: </string>
+    <string name="askingEmail">Type email here</string>
+    <string name="password">Type your password: </string>
+    <string name="askingPassword"></string>
+    <string name="login">Login</string>
+    <string name="enterName">Enter your name</string>
+    <string name="enterEmail">Enter your email</string>
+    <string name="yourProfile">Your Profile</string>
+    <string name="profile_name">Enter your name: </string>
+    <string name="profile_picture">Your picture: </string>
+    <string name="after_image_text">Click the above button to take a picture</string>
+    <string name="goToChat"> Go to chat!!</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="messageToBeSendOrReceive">Type here</string>
+
+</resources>
